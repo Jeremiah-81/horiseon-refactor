@@ -16,3 +16,5 @@ The secont section is online!!!
 
 
 https://jeremiah-81.github.io/horiseon-refactor/
+
+![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/98862284/160215912-94b90931-1ea1-47f4-bdda-689fdae473a7.png)
